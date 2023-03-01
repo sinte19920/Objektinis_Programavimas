@@ -1,0 +1,23 @@
+#include <iostream>
+#include <iomanip>
+#include <algorithm>
+#include <string>
+#include <vector>
+#include <cstdlib>
+#include <ctime>
+#include <limits>
+
+using std::cin;
+using std::copy;
+using std::cout;
+using std::endl;
+using std::fixed;
+using std::left;
+using std::numeric_limits;
+using std::right;
+using std::setprecision;
+using std::setw;
+using std::sort;
+using std::streamsize;
+using std::string;
+using std::vector;
